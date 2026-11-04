@@ -1,0 +1,6 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "killen-theme",
+    "editor.fontFamily": "'JetBrains Mono', Menlo, monospace",
+    "editor.fontSize": 16
+}
